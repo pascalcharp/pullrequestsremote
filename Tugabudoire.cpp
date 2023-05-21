@@ -3,3 +3,7 @@
 //
 
 #include "Tugabudoire.h"
+
+Tugabudoire::Tugabudoire() : caramel(0) {
+
+}

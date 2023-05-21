@@ -7,7 +7,11 @@
 
 
 class Tugabudoire {
+public:
+    Tugabudoire() ;
 
+private:
+    int caramel ;
 };
 
 
