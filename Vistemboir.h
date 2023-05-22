@@ -7,6 +7,10 @@
 
 
 class Vistemboir {
+public:
+    Vistemboir() ;
+private:
+    int piston ;
 
 };
 

@@ -3,3 +3,7 @@
 //
 
 #include "Vistemboir.h"
+
+Vistemboir::Vistemboir() : piston(0) {
+
+}
