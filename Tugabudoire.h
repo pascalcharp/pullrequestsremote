@@ -11,6 +11,7 @@ public:
     Tugabudoire() ;
 
     void agreger() ;
+    int lireCaramel() const ;
 
 private:
     int caramel ;

@@ -11,3 +11,7 @@ Tugabudoire::Tugabudoire() : caramel(0) {
 void Tugabudoire::agreger() {
     caramel += 8 ;
 }
+
+int Tugabudoire::lireCaramel() const {
+    return caramel ;
+}
