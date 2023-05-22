@@ -12,6 +12,11 @@ void Tugabudoire::agreger() {
     caramel += 8 ;
 }
 
+
 int Tugabudoire::lireCaramel() const {
     return caramel ;
+
+void Tugabudoire::modifierCaramel(int incr) {
+    caramel += incr ;
+
 }
