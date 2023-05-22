@@ -11,6 +11,7 @@ public:
     Tugabudoire() ;
 
     void agreger() ;
+    void modifierCaramel(int incr) ;
 
 private:
     int caramel ;
