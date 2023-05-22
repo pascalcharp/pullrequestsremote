@@ -7,3 +7,7 @@
 Vistemboir::Vistemboir() : piston(0) {
 
 }
+
+void Vistemboir::agreger() {
+    ++ piston ;
+}
