@@ -10,6 +10,8 @@ class Tugabudoire {
 public:
     Tugabudoire() ;
 
+    void agreger() ;
+
 private:
     int caramel ;
 };

@@ -7,3 +7,7 @@
 Tugabudoire::Tugabudoire() : caramel(0) {
 
 }
+
+void Tugabudoire::agreger() {
+    caramel += 8 ;
+}
