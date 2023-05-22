@@ -9,6 +9,8 @@
 class Vistemboir {
 public:
     Vistemboir() ;
+
+    void agreger() ;
 private:
     int piston ;
 
