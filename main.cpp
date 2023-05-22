@@ -3,6 +3,12 @@
 #include "Vistemboir.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Vistemboir v ;
+    Tugabudoire t ;
+    // Changements dans local1
+    v.agreger() ;
+    t.agreger() ;
+
+
     return 0;
 }
